@@ -1,0 +1,289 @@
+2025-10-04 11:44:49,322 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\GraphicsConfig.xml
+2025-10-04 11:44:49,361 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 11:44:49,392 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 11:51:04,519 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\AppConfig.ini
+2025-10-04 11:51:04,521 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\Player-prev.log
+2025-10-04 11:51:04,522 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\Player.log
+2025-10-04 11:51:04,524 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\shared.dat
+2025-10-04 11:51:04,525 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\steam_autocloud.vdf
+2025-10-04 11:51:04,527 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\user1.dat
+2025-10-04 11:51:04,529 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\user1.dat.bak1
+2025-10-04 11:51:04,531 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\user1_1.0.28650.dat
+2025-10-04 11:51:04,533 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\user1_1.0.28714.dat
+2025-10-04 11:51:04,535 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\Restore_Points1\NODELrestoreData1.dat
+2025-10-04 11:51:04,536 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\Restore_Points1\NODELrestoreData13.dat
+2025-10-04 11:51:04,540 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\Restore_Points1\NODELrestoreData24.dat
+2025-10-04 11:51:04,542 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\Restore_Points1\restoreData15.dat
+2025-10-04 11:51:04,544 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\Restore_Points1\restoreData16.dat
+2025-10-04 11:51:04,546 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\Restore_Points1\restoreData17.dat
+2025-10-04 11:51:04,548 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\Restore_Points1\restoreData18.dat
+2025-10-04 11:51:04,550 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\Restore_Points1\restoreData19.dat
+2025-10-04 11:51:04,553 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\Restore_Points1\restoreData20.dat
+2025-10-04 11:51:04,555 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\Restore_Points1\restoreData21.dat
+2025-10-04 11:51:04,558 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\Restore_Points1\restoreData22.dat
+2025-10-04 11:51:04,561 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\Restore_Points1\restoreData23.dat
+2025-10-04 11:51:04,564 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\Restore_Points1\restoreData25.dat
+2025-10-04 11:51:04,567 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\Restore_Points1\restoreData26.dat
+2025-10-04 11:51:04,571 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\Restore_Points1\restoreData27.dat
+2025-10-04 11:51:04,574 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\Restore_Points1\restoreData28.dat
+2025-10-04 11:51:04,576 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\Restore_Points1\restoreData29.dat
+2025-10-04 11:51:04,580 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\Restore_Points1\restoreData30.dat
+2025-10-04 11:51:04,583 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\Restore_Points1\restoreData31.dat
+2025-10-04 11:51:04,586 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\Restore_Points1\restoreData32.dat
+2025-10-04 11:51:04,588 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\Restore_Points1\restoreData33.dat
+2025-10-04 11:51:04,591 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\Restore_Points1\restoreData34.dat
+2025-10-04 11:51:04,594 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\Restore_Points1\restoreData35.dat
+2025-10-04 11:52:45,931 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\GraphicsConfig.xml
+2025-10-04 11:53:10,899 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 11:53:29,082 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\GraphicsConfig.xml
+2025-10-04 11:53:29,191 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 11:53:29,315 - Removido: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 11:53:29,502 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 11:53:29,595 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 11:53:29,735 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\GraphicsConfig.xml
+2025-10-04 11:53:29,891 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 11:53:30,015 - Removido: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 11:53:30,140 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 11:53:30,342 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 11:53:38,415 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 11:53:38,571 - Removido: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 11:53:38,788 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 11:53:38,991 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 11:53:45,198 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\GraphicsConfig.xml
+2025-10-04 11:53:45,369 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 11:53:45,509 - Removido: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 11:53:45,618 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 11:53:45,758 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 11:53:45,945 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\GraphicsConfig.xml
+2025-10-04 11:53:46,101 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 11:53:46,241 - Removido: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 11:53:46,365 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 11:53:46,505 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 11:54:02,636 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\GraphicsConfig.xml
+2025-10-04 11:54:02,823 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 11:54:02,916 - Removido: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 11:54:03,040 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 11:54:03,212 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 11:57:58,979 - Erro ao remover C:\Users\titan\AppData\Roaming\EldenRing\76561197960271872: [WinError 5] Acesso negado: 'C:\\Users\\titan\\OneDrive\\Área de Trabalho\\SaveT\\EldenRing\\76561197960271872'
+2025-10-04 11:57:59,106 - Removido: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\GraphicsConfig.xml
+2025-10-04 11:57:59,856 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 11:58:00,031 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 11:58:00,191 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 11:58:00,366 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 11:58:00,638 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 11:58:00,829 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 11:58:01,005 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 11:58:01,291 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 11:58:01,451 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 11:58:08,609 - Erro ao sincronizar C:\Users\titan\AppData\Roaming\EldenRing\EldenRing\76561197960271872\ER0000.sl2: [WinError 3] O sistema não pode encontrar o caminho especificado
+2025-10-04 11:58:08,737 - Erro ao sincronizar C:\Users\titan\AppData\Roaming\EldenRing\EldenRing\76561197960271872\ER0000.sl2.bak: [WinError 3] O sistema não pode encontrar o caminho especificado
+2025-10-04 11:58:08,816 - Erro ao sincronizar C:\Users\titan\AppData\Roaming\EldenRing\EldenRing\76561197960271872: [WinError 3] O sistema não pode encontrar o caminho especificado
+2025-10-04 11:58:08,926 - Erro ao sincronizar C:\Users\titan\AppData\Roaming\EldenRing\EldenRing: [WinError 3] O sistema não pode encontrar o caminho especificado
+2025-10-04 11:58:28,608 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 11:58:28,720 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 11:58:30,601 - Removido: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 11:58:30,681 - Removido: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 11:58:30,825 - Erro ao sincronizar C:\Users\titan\AppData\Roaming\EldenRing\EldenRing\76561197960271872: [WinError 3] O sistema não pode encontrar o caminho especificado
+2025-10-04 11:58:30,873 - Erro ao remover C:\Users\titan\AppData\Roaming\EldenRing\EldenRing\76561197960271872: [WinError 5] Acesso negado: 'C:\\Users\\titan\\OneDrive\\Área de Trabalho\\SaveT\\EldenRing\\EldenRing\\76561197960271872'
+2025-10-04 11:58:30,921 - Erro ao remover C:\Users\titan\AppData\Roaming\EldenRing\EldenRing: [WinError 5] Acesso negado: 'C:\\Users\\titan\\OneDrive\\Área de Trabalho\\SaveT\\EldenRing\\EldenRing'
+2025-10-04 11:58:31,222 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 11:58:31,395 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 11:58:31,569 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 11:58:31,713 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 11:58:31,889 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\GraphicsConfig.xml
+2025-10-04 11:58:32,160 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\GraphicsConfig.xml
+2025-10-04 12:07:08,218 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\GraphicsConfig.xml
+2025-10-04 12:07:08,234 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:07:08,246 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:08:52,639 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\GraphicsConfig.xml
+2025-10-04 12:08:55,874 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:08:55,936 - Ignorado delete: C:/Users/titan/AppData/Roaming/EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:08:59,125 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:09:02,236 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:09:05,363 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\GraphicsConfig.xml
+2025-10-04 12:09:08,474 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:09:08,568 - Ignorado delete: C:/Users/titan/AppData/Roaming/EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:09:11,709 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:09:14,929 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:09:18,077 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\GraphicsConfig.xml
+2025-10-04 12:09:21,238 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:09:21,285 - Ignorado delete: C:/Users/titan/AppData/Roaming/EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:09:24,482 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:09:27,776 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:09:34,754 - Ignorado delete: C:/Users/titan/AppData/Roaming/EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:10:29,159 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:10:32,482 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:16:55,817 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\GraphicsConfig.xml
+2025-10-04 12:16:59,029 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:16:59,157 - Removido: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:17:02,385 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:17:05,548 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:17:08,709 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\GraphicsConfig.xml
+2025-10-04 12:17:11,896 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:17:12,055 - Removido: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:17:15,365 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:17:18,540 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:22:03,299 - Ignorado delete: C:/Users/titan/AppData/Roaming/EldenRing\GraphicsConfig.xml
+2025-10-04 12:22:18,763 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\GraphicsConfig.xml
+2025-10-04 12:22:22,039 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\GraphicsConfig.xml
+2025-10-04 12:22:22,055 - Ignorado delete: C:/Users/titan/AppData/Roaming/EldenRing\GraphicsConfig.xml
+2025-10-04 12:22:25,202 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\GraphicsConfig.xml
+2025-10-04 12:22:28,369 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\GraphicsConfig.xml
+2025-10-04 12:25:32,854 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\GraphicsConfig.xml
+2025-10-04 12:25:36,011 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:25:36,059 - Ignorado delete: C:/Users/titan/AppData/Roaming/EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:25:39,216 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:25:42,389 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:25:45,562 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\GraphicsConfig.xml
+2025-10-04 12:25:48,704 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:25:48,783 - Ignorado delete: C:/Users/titan/AppData/Roaming/EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:25:51,956 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:25:55,248 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:25:58,471 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\GraphicsConfig.xml
+2025-10-04 12:26:01,803 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:26:01,881 - Ignorado delete: C:/Users/titan/AppData/Roaming/EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:26:05,135 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:26:08,374 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:33:16,751 - Ignorado delete: C:/Users/titan/AppData/Roaming/EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:33:16,871 - Ignorado delete: C:/Users/titan/AppData/Roaming/EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:33:21,745 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\GraphicsConfig.xml
+2025-10-04 12:33:26,757 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:33:31,768 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:33:34,223 - Ignorado delete: C:/Users/titan/AppData/Roaming/EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:33:36,780 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:33:40,964 - Ignorado delete: C:/Users/titan/AppData/Roaming/EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:33:41,790 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:33:46,799 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:33:51,800 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\GraphicsConfig.xml
+2025-10-04 12:33:56,824 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:34:01,834 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:34:06,856 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:34:11,873 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:34:16,882 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:34:21,893 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\GraphicsConfig.xml
+2025-10-04 12:34:26,902 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:34:31,911 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:34:36,929 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:34:41,938 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:34:46,947 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:34:51,948 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\GraphicsConfig.xml
+2025-10-04 12:34:56,958 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:35:01,967 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:35:06,976 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:35:11,985 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:35:16,994 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:41:27,405 - Ignorado delete: C:/Users/titan/AppData/Roaming/EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:41:27,506 - Ignorado delete: C:/Users/titan/AppData/Roaming/EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:41:29,400 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\GraphicsConfig.xml
+2025-10-04 12:41:31,412 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:41:32,987 - Ignorado delete: C:/Users/titan/AppData/Roaming/EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:41:33,422 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:41:35,433 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:41:37,445 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:41:39,455 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:41:41,458 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\GraphicsConfig.xml
+2025-10-04 12:41:43,469 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:41:45,481 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:41:47,493 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:41:49,504 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:41:51,524 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:41:53,526 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\GraphicsConfig.xml
+2025-10-04 12:41:55,537 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:41:57,519 - Ignorado delete: C:/Users/titan/AppData/Roaming/EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:41:57,549 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:41:59,561 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:42:01,572 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:42:03,583 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:42:05,586 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\GraphicsConfig.xml
+2025-10-04 12:42:07,597 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:42:08,517 - Ignorado delete: C:/Users/titan/AppData/Roaming/EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:42:09,609 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:42:11,621 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:42:13,631 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:42:15,644 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:42:17,166 - Ignorado delete: C:/Users/titan/AppData/Roaming/EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:42:17,196 - Ignorado delete: C:/Users/titan/AppData/Roaming/EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:42:17,655 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:42:19,665 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:42:21,680 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:42:23,241 - Ignorado delete: C:/Users/titan/AppData/Roaming/EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:42:23,400 - Ignorado delete: C:/Users/titan/AppData/Roaming/EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:42:23,691 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:42:25,702 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:42:27,711 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:42:29,721 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:42:31,730 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:42:33,740 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:42:35,749 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:42:37,759 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:42:39,769 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:42:41,772 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\GraphicsConfig.xml
+2025-10-04 12:42:43,781 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:42:45,790 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:42:47,800 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:42:49,809 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:42:51,818 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:42:53,821 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\GraphicsConfig.xml
+2025-10-04 12:42:55,831 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:42:57,840 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:42:59,849 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:43:01,858 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:43:03,868 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:44:28,961 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:44:30,971 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:44:32,980 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:44:34,991 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:44:37,000 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:44:39,011 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:45:14,276 - Ignorado delete: C:/Users/titan/AppData/Roaming/EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:45:14,423 - Ignorado delete: C:/Users/titan/AppData/Roaming/EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:45:16,269 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\GraphicsConfig.xml
+2025-10-04 12:45:18,281 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:45:20,293 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:45:22,304 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:45:24,316 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:45:26,326 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:45:28,329 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\GraphicsConfig.xml
+2025-10-04 12:45:30,340 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:45:32,353 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2
+2025-10-04 12:45:34,365 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:45:36,377 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:45:38,397 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\EldenRing\76561197960271872\ER0000.sl2.bak
+2025-10-04 12:46:36,758 - Ignorado delete: C:/Users/titan/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\Player-prev.log
+2025-10-04 12:46:37,201 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\steam_autocloud.vdf
+2025-10-04 12:46:39,203 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\steam_autocloud.vdf
+2025-10-04 12:46:41,206 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\steam_autocloud.vdf
+2025-10-04 12:46:43,208 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\steam_autocloud.vdf
+2025-10-04 12:46:45,211 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\Player.log
+2025-10-04 12:46:47,213 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\Player.log
+2025-10-04 12:46:49,220 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\Player.log
+2025-10-04 12:46:51,223 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\shared.dat
+2025-10-04 12:46:53,226 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\AppConfig.ini
+2025-10-04 12:46:55,228 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\AppConfig.ini
+2025-10-04 12:46:57,231 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\AppConfig.ini
+2025-10-04 12:46:59,233 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\Player.log
+2025-10-04 12:47:01,236 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\Player.log
+2025-10-04 12:47:04,674 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\user1.dat
+2025-10-04 12:47:56,062 - Ignorado delete: C:/Users/titan/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\195319139\user1.dat.bak1
+2025-10-04 12:47:57,977 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\shared.dat
+2025-10-04 12:47:59,979 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\shared.dat
+2025-10-04 12:48:01,981 - Erro ao sincronizar C:\Users\titan\AppData\LocalLow\Team Cherry\Hollow Knight Silksong\195319139\user1.dat.new: [WinError 2] O sistema não pode encontrar o arquivo especificado
+2025-10-04 12:48:03,982 - Erro ao sincronizar C:\Users\titan\AppData\LocalLow\Team Cherry\Hollow Knight Silksong\195319139\user1.dat.new: [WinError 2] O sistema não pode encontrar o arquivo especificado
+2025-10-04 12:48:05,389 - Ignorado delete: C:/Users/titan/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\195319139\user1.dat.bak1
+2025-10-04 12:48:05,984 - Erro ao sincronizar C:\Users\titan\AppData\LocalLow\Team Cherry\Hollow Knight Silksong\195319139\user1.dat.new: [WinError 2] O sistema não pode encontrar o arquivo especificado
+2025-10-04 12:48:07,986 - Erro ao sincronizar C:\Users\titan\AppData\LocalLow\Team Cherry\Hollow Knight Silksong\195319139\user1.dat.new: [WinError 2] O sistema não pode encontrar o arquivo especificado
+2025-10-04 12:48:09,990 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\user1.dat
+2025-10-04 12:48:11,993 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\user1_1.0.28714.dat
+2025-10-04 12:48:13,995 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\user1_1.0.28714.dat
+2025-10-04 12:48:15,997 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\user1_1.0.28714.dat
+2025-10-04 12:48:17,999 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\shared.dat
+2025-10-04 12:48:20,001 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\shared.dat
+2025-10-04 12:48:22,003 - Erro ao sincronizar C:\Users\titan\AppData\LocalLow\Team Cherry\Hollow Knight Silksong\195319139\user1.dat.new: [WinError 2] O sistema não pode encontrar o arquivo especificado
+2025-10-04 12:48:24,004 - Erro ao sincronizar C:\Users\titan\AppData\LocalLow\Team Cherry\Hollow Knight Silksong\195319139\user1.dat.new: [WinError 2] O sistema não pode encontrar o arquivo especificado
+2025-10-04 12:48:26,006 - Erro ao sincronizar C:\Users\titan\AppData\LocalLow\Team Cherry\Hollow Knight Silksong\195319139\user1.dat.new: [WinError 2] O sistema não pode encontrar o arquivo especificado
+2025-10-04 12:48:28,008 - Erro ao sincronizar C:\Users\titan\AppData\LocalLow\Team Cherry\Hollow Knight Silksong\195319139\user1.dat.new: [WinError 2] O sistema não pode encontrar o arquivo especificado
+2025-10-04 12:48:30,010 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\user1.dat
+2025-10-04 12:48:32,013 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\user1_1.0.28714.dat
+2025-10-04 12:48:34,015 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\user1_1.0.28714.dat
+2025-10-04 12:48:36,017 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\user1_1.0.28714.dat
+2025-10-04 12:48:38,019 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\Player.log

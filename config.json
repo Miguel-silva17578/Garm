@@ -1,0 +1,8 @@
+{
+    "watch_dirs": [
+        "C:/Users/titan/AppData/Roaming/EldenRing",
+        "C:/Users/titan/AppData/LocalLow/Team Cherry/Hollow Knight Silksong"
+    ],
+    "backup_dir": "C:/Users/titan/OneDrive/\u00c1rea de Trabalho/SaveT",
+    "log_file": "sync_log.txt"
+}
