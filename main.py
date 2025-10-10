@@ -91,5 +91,9 @@ def run_ui():
 
     root.mainloop()
 
+from ui_Mac import open_ui
+
 if __name__ == "__main__":
-    run_ui()
+    open_ui()
+
+

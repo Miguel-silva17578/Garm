@@ -287,3 +287,9 @@
 2025-10-04 12:48:34,015 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\user1_1.0.28714.dat
 2025-10-04 12:48:36,017 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\user1_1.0.28714.dat
 2025-10-04 12:48:38,019 - Atualizado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\Player.log
+2025-10-09 21:40:09,762 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\Player-prev.log
+2025-10-09 21:40:09,767 - Inicialmente copiado: C:\Users\titan\OneDrive\Área de Trabalho\SaveT\Hollow Knight Silksong\195319139\user1.dat.bak1
+2025-10-09 21:40:27,431 - Sincronização parada.
+2025-10-09 23:18:04,694 - Sincronização parada.
+2025-10-09 23:24:25,488 - Sincronização parada.
+2025-10-09 23:24:48,765 - Sincronização parada.
